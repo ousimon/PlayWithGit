@@ -1,0 +1,3 @@
+[submodule "PWG_Submodule1"]
+	path = PWG_Submodule1
+	url = https://github.com/ousimon/PWG_Submodule1.git
