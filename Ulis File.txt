@@ -7,3 +7,4 @@ Bugfix.
 Again Master change.
 Bugfix.
 Feature1.
+Feature2.
