@@ -4,3 +4,6 @@
 [submodule "Component1"]
 	path = Component1
 	url = https://github.com/ousimon/Component1.git
+[submodule "Submodule1"]
+	path = Submodule1
+	url = https://github.com/ousimon/Component1.git
